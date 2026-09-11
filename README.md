@@ -1,40 +1,40 @@
-💰 Sistema de Gerenciamento de Conta Bancária
+# 💰 Sistema de Gerenciamento de Conta Bancária
 
 Programa em Python que simula operações básicas de uma conta bancária: criação de conta, depósito, saque e consulta de saldo, via menu interativo no terminal.
 
-📋 Descrição
+## 📋 Descrição
 
 O sistema inicia solicitando um saldo inicial para criar a conta. Em seguida, exibe um menu onde o usuário pode realizar operações financeiras até optar por encerrar o programa.
 
-⚙️ Funcionalidades
+## ⚙️ Funcionalidades
 
-- Criar conta**: define o saldo inicial (não permite valores negativos)
-- Depositar**: adiciona um valor positivo ao saldo
-- Sacar**: subtrai um valor do saldo, verificando saldo insuficiente
-- Consultar saldo**: exibe o saldo atual formatado
-- Validação de entrada**: trata valores inválidos (não numéricos) sem quebrar o programa
+- **Criar conta**: define o saldo inicial (não permite valores negativos)
+- **Depositar**: adiciona um valor positivo ao saldo
+- **Sacar**: subtrai um valor do saldo, verificando saldo insuficiente
+- **Consultar saldo**: exibe o saldo atual formatado
+- **Validação de entrada**: trata valores inválidos (não numéricos) sem quebrar o programa
 
- 🚀 Como executar
+## 🚀 Como executar
 
-Pré-requisitos
+### Pré-requisitos
 - [Python 3.x](https://www.python.org/downloads/) instalado
 
-Passos
+### Passos
 
-
-Clone o repositório
+\`\`\`bash
+# Clone o repositório
 git clone https://github.com/seu-usuario/sistema-conta-bancaria.git
 
-Acesse a pasta do projeto
+# Acesse a pasta do projeto
 cd sistema-conta-bancaria
 
-Execute o programa
+# Execute o programa
 python conta_bancaria.py
+\`\`\`
 
+## 🖥️ Exemplo de uso
 
-🖥️ Exemplo de uso
-
-
+\`\`\`
 Digite o saldo inicial da conta: R$ 100
 Conta criada com sucesso!
 
@@ -54,13 +54,14 @@ Depósito realizado com sucesso!
 4 - Encerrar programa
 Escolha uma opção: 3
 Saldo atual: R$ 150.00
+\`\`\`
 
-
-🛠️ Tecnologias utilizadas
+## 🛠️ Tecnologias utilizadas
 
 - Python 3 (sem bibliotecas externas)
 
 
-👤 Autor
 
-Desenvolvido por Vinycius
+## 👤 Autor
+
+Desenvolvido por Vinycius 
