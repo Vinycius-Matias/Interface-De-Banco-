@@ -21,7 +21,6 @@ O sistema inicia solicitando um saldo inicial para criar a conta. Em seguida, ex
 
 ### Passos
 
-\`\`\`bash
 # Clone o repositório
 git clone https://github.com/seu-usuario/sistema-conta-bancaria.git
 
